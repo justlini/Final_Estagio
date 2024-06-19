@@ -1,0 +1,2 @@
+Log for 29-05-2024
+Log: (29/05/2024 17:50:49) INSERT the name ola in the DB 

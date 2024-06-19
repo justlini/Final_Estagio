@@ -1,0 +1,35 @@
+USE [dbFase4V4]
+GO
+
+/****** Object:  Table [dbo].[tableReadInfo]    Script Date: 29/05/2024 18:07:33 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[tableReadInfo](
+	[serie_ID] [varchar](50) NULL,
+	[tagId] [varchar](50) NOT NULL,
+	[postInf] [varchar](50) NULL,
+	[idProdOrder] [varchar](50) NULL,
+	[idAntena] [int] NOT NULL,
+	[quantity] [int] NULL,
+	[readDate] [date] NULL,
+	[readHour] [time](7) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[tagId] ASC,
+	[idAntena] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [dbo].[tableReadInfo]  WITH CHECK ADD FOREIGN KEY([tagId], [idAntena])
+REFERENCES [dbo].[LeituraTag_FX96000] ([Tag_id], [Antenna_id])
+ON DELETE CASCADE
+GO
+
+ALTER TABLE [dbo].[tableReadInfo]  WITH CHECK ADD FOREIGN KEY([idProdOrder], [quantity], [serie_ID])
+REFERENCES [dbo].[tableModelInfo] ([idProdOrder], [quantity], [serie_ID])
+GO

@@ -1,0 +1,12 @@
+C:\Users\paulo.milagaia\Desktop\Projetos\C#\Fase4\Fase4\bin\Debug\Fase4.exe.config
+C:\Users\paulo.milagaia\Desktop\Projetos\C#\Fase4\Fase4\bin\Debug\Fase4.exe
+C:\Users\paulo.milagaia\Desktop\Projetos\C#\Fase4\Fase4\bin\Debug\Fase4.pdb
+C:\Users\paulo.milagaia\Desktop\Projetos\C#\Fase4\Fase4\obj\Debug\Fase4.csproj.AssemblyReference.cache
+C:\Users\paulo.milagaia\Desktop\Projetos\C#\Fase4\Fase4\obj\Debug\Fase4.initialPage.resources
+C:\Users\paulo.milagaia\Desktop\Projetos\C#\Fase4\Fase4\obj\Debug\Fase4.Properties.Resources.resources
+C:\Users\paulo.milagaia\Desktop\Projetos\C#\Fase4\Fase4\obj\Debug\Fase4.csproj.GenerateResource.cache
+C:\Users\paulo.milagaia\Desktop\Projetos\C#\Fase4\Fase4\obj\Debug\Fase4.csproj.CoreCompileInputs.cache
+C:\Users\paulo.milagaia\Desktop\Projetos\C#\Fase4\Fase4\obj\Debug\Fase4.exe
+C:\Users\paulo.milagaia\Desktop\Projetos\C#\Fase4\Fase4\obj\Debug\Fase4.pdb
+C:\Users\paulo.milagaia\Desktop\Projetos\C#\Fase4\Fase4\obj\Debug\Fase4.ControloPosto.resources
+C:\Users\paulo.milagaia\Desktop\Projetos\C#\Fase4\Fase4\obj\Debug\Fase4.rfidReader.resources

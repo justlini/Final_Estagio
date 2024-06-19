@@ -1,0 +1,22 @@
+Log for 22-03-2024
+Log: (09:17:04) INSERT the name 
+Log: (09:35:17) INSERT the name 
+Log: (09:35:17) INSERT the name 
+Log: (09:38:13) INSERT the name 
+Log: (09:38:59) INSERT the name 
+Log: (09:40:56) SELECT the name 
+Log: (09:54:13) INSERT the name 
+Log: (09:55:01) INSERT the name 
+Log: (10:44:48) SELECT the name 
+Log: (11:03:43) INSERT the name 
+Log: (11:03:43) INSERT the name 
+Log: (11:03:43) INSERT the name 
+Log: (11:03:43) INSERT the name 
+Log: (11:09:38) INSERT the name 
+Log: (11:09:38) INSERT the name 
+Log: (11:09:38) INSERT the name 
+Log: (11:10:12) INSERT the name 
+Log: (11:10:25) INSERT the name 
+Log: (11:10:40) INSERT the name 
+Log: (11:09:38) SELECT the name 
+Log: (11:11:43) SELECT the name 

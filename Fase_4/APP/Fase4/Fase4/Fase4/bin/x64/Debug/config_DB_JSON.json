@@ -1,0 +1,11 @@
+{
+  "DBname": "dbFase4V4",
+  "dataSource": "localhost",
+  "userID": "sa",
+  "password": "sa",
+  "tableNames": {
+    "table1": "dbo.LeituraTag_FX96000",
+    "table2": "dbo.tableReadInfo",
+    "table3": "dbo.tableModelInfo"
+  }
+}

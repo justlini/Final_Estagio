@@ -1,0 +1,7 @@
+{
+  "DBname": "estagio_db",
+  "dataSource": "localhost",
+  "userID": "sa",
+  "password": "sa",
+  "tableName": "dbo.Table_1"
+}

@@ -1,0 +1,3444 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/CC_Snapshots/rfidscm_fx_mv49_test_h117/RFID/API/prj/win64/RFIDAPI_Csharp",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/antenna_modes.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/antenna_modes.html",
+          "hash": "nfKyVK2bhsnJCR3jdNnLWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/app_deploy.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/app_deploy.html",
+          "hash": "FL62W2sYaam3Ig3DZhT3gg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/cable_loss.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/cable_loss.html",
+          "hash": "SIzFvcGcGEuB66CLVU5T+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/conn_reader.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/conn_reader.html",
+          "hash": "PbWGoEUlgYk1YOtMIE4ORA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/diconn.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/diconn.html",
+          "hash": "SOSJQl2zVvInb4JgCx0V/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/firmware_update.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/firmware_update.html",
+          "hash": "jBzMKif7AuDPEYtOm2xjFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/gpi_debounce.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/gpi_debounce.html",
+          "hash": "q+WAUQLwW7VSxfLy4p3wBA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/idle_mode.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/idle_mode.html",
+          "hash": "5oWYFko8X8UpdJkoTc1S0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/license_mgmt.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/license_mgmt.html",
+          "hash": "TWFCDOhgaKcnundm87rDmQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/llrp_config.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/llrp_config.html",
+          "hash": "L5e5bl87zpqT+QV7nFWYNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/local_time.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/local_time.html",
+          "hash": "e+58V/yC4VpP1Cfjr7BtPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/power_nego.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/power_nego.html",
+          "hash": "+AlszXUxnaTSSSP0DUa49g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/read_config.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/read_config.html",
+          "hash": "ZelmIjNO6k6Sg/t+BWAPgw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/read_points.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/read_points.html",
+          "hash": "U45HCcYh0DIN0Kv3zZZsgg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/reader_stats.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/reader_stats.html",
+          "hash": "9IwzIH8saX/Yg8C5Szh51A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/region_config.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/region_config.html",
+          "hash": "6SeQHi3HCk0hb7LRzio8pQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/restart.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/restart.html",
+          "hash": "MdT8PK6hrQtwVys4RYd0lw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/sys_info.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/sys_info.html",
+          "hash": "D0Bo24rGHi8BosX4guhfVQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/time_zone.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/time_zone.html",
+          "hash": "+rRPs+dcPg1GB72hZgC6uw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/usb_mode.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/usb_mode.html",
+          "hash": "jGyVeXf7I0lCFQ5tKBFgdw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/user_led.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/user_led.html",
+          "hash": "61FZ5i8nYn7mAsEIVzOMLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/RM/usr_mang.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/RM/usr_mang.html",
+          "hash": "6abw11EGG80IExWQ8qcB4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/advance_op.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/advance_op.html",
+          "hash": "g+29ksot0ZHVQE/UolHOtg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/basic_op.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/basic_op.html",
+          "hash": "a6bQZ42xmTEIABFqllDiBA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/config_reader.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/config_reader.html",
+          "hash": "JIIGq2NSSP87a4WRfzkmGg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/connect_to_reader.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/connect_to_reader.html",
+          "hash": "YD1HPsKXvVnE6//TGI1XDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/details2.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/details2.html",
+          "hash": "XTxoIhdk6tcpZvXHIgTrPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/disconnect_read.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/disconnect_read.html",
+          "hash": "dSCiMlJyn71b+ms+9gtvMg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/gen2v2_cmds.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/gen2v2_cmds.html",
+          "hash": "kdt9hlgcJOUtYvF67e6jRw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/impinj_cmd.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/impinj_cmd.html",
+          "hash": "hsaXYrNcw5/2HP1xrre8Wg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "qFdE+CX5qwW3GYPKsbo3wQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/introduction.html",
+          "hash": "4kjkL2Dav4OCjlMzcdwaMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/mang_events.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/mang_events.html",
+          "hash": "K82LDcFKIrdw9dDNL9Jwbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/mang_tags.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/mang_tags.html",
+          "hash": "2K5B8FtoXNUS12Hbl1fyhg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/nxp_cmd.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/nxp_cmd.html",
+          "hash": "fZ1JeLPOvWMgmj8yTRi2Ig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/reader_cap.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/reader_cap.html",
+          "hash": "1LIwD+qGleerNBWGAfy+yg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/tag_loc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/tag_loc.html",
+          "hash": "963ExtrfFcPsRiix5sBp6w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/zbra-logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/zbra-logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "ay96Pjwkmtk1IPMGUp1swg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.ACCESS_OPERATION_CODE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.ACCESS_OPERATION_CODE.html",
+          "hash": "U4CGsQ138GMt36MBX4OBgg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.ACCESS_OPERATION_STATUS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.ACCESS_OPERATION_STATUS.html",
+          "hash": "vY34J/16iFWxhixgdu06WA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.ALARM_LEVEL.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.ALARM_LEVEL.html",
+          "hash": "yk/+T2rM5Eoiqw2yF1pafw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.ANTENNA_EVENT_TYPE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.ANTENNA_EVENT_TYPE.html",
+          "hash": "xwdoebfuQmYWIW0oLCeQgg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.ANTENNA_MODE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.ANTENNA_MODE.html",
+          "hash": "OrMCe98jwCsrlhTAVuLBow=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.ANTENNA_STOP_TRIGGER_TYPE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.ANTENNA_STOP_TRIGGER_TYPE.html",
+          "hash": "UR00l5VUZjDwbOfv0iLzmQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.AccessFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.AccessFilter.html",
+          "hash": "au+3BECQ+VqJITYQrQyzHg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.AccessOperationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.AccessOperationResult.html",
+          "hash": "CADbWpqwdf2gPTRnGgE8iw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Actions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Actions.html",
+          "hash": "gHc/MuBDdkL6+ND0sOdF+Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.AntennaConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.AntennaConfig.html",
+          "hash": "KMOgPD4vRemrZHpJhapBPw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.AntennaInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.AntennaInfo.html",
+          "hash": "lpZbaeaTUjKX8GcUwSnrIg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.AntennaPortInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.AntennaPortInfo.html",
+          "hash": "R27KQaGktE99UddUwizgnw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Antennas.AntennaProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Antennas.AntennaProperties.html",
+          "hash": "9Ja+0bi4mNA5HOcpFZLI7g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Antennas.AntennaRfConfig.AntennaStopTrigger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Antennas.AntennaRfConfig.AntennaStopTrigger.html",
+          "hash": "GRPOXjOJN6uBu2fxvfI03g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Antennas.AntennaRfConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Antennas.AntennaRfConfig.html",
+          "hash": "e/PU8GISk4oQqSxpmatLeA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Antennas.Config.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Antennas.Config.html",
+          "hash": "iA5Qu7fydbd/hGirsnHhPg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Antennas.PhysicalProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Antennas.PhysicalProperties.html",
+          "hash": "zpBNl5oxVa8PkCx1yk7o8A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Antennas.RFMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Antennas.RFMode.html",
+          "hash": "3bgQvOvXfQqDGT8cyWKngg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Antennas.SingulationControl.SingulationAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Antennas.SingulationControl.SingulationAction.html",
+          "hash": "fbc7jPEeyTBhfsJkTWkJKg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Antennas.SingulationControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Antennas.SingulationControl.html",
+          "hash": "ALhnPC8mrSDRoehPSDF9zA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Antennas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Antennas.html",
+          "hash": "W8CsrtKpuZRMssy4q7wPvg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.AuthenticateReadBufferResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.AuthenticateReadBufferResult.html",
+          "hash": "0nkgBZqtsH/aIFBlpqMffA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.BATTERY_STATUS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.BATTERY_STATUS.html",
+          "hash": "yY9Mh3wM84xAH8Gze+wgKA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.BrandIDCheck.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.BrandIDCheck.html",
+          "hash": "ajYggxpsF0My8aUEUP9cfw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.CABLE_LOSS_COMPENSATION.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.CABLE_LOSS_COMPENSATION.html",
+          "hash": "6AP2U2spx03myqlByXkp9A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.COMMUNICATION_STANDARD.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.COMMUNICATION_STANDARD.html",
+          "hash": "oIkcSIWAfgDtfmeUUMnJgQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.CableLossCompensation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.CableLossCompensation.html",
+          "hash": "3Hm4XisdlO2Wqq4bKg/PIw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Config.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Config.html",
+          "hash": "iBXo298NMQLqBB24CS3+aw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.DISCONNECTION_EVENT_TYPE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.DISCONNECTION_EVENT_TYPE.html",
+          "hash": "zkIECQn0lCyueg+hb6BO7A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.DIVIDE_RATIO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.DIVIDE_RATIO.html",
+          "hash": "6tmLffQyhB16bdKPoTRrVg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.DistanceTrigger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.DistanceTrigger.html",
+          "hash": "y6AVoaz8t/wpQh9iEUYOaQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.AccessStartEventData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.AccessStartEventData.html",
+          "hash": "VfQhuA6adgpract+kQ/I7A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.AccessStopEventData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.AccessStopEventData.html",
+          "hash": "0TJOfhAMoSEFZCi3olUx0Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.AntennaEventData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.AntennaEventData.html",
+          "hash": "RTz17Ht7e3miZv/aE+YEhA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.BufferFullWarningEventData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.BufferFullWarningEventData.html",
+          "hash": "1ttLMwPy5a/affIX7o9Nug=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.DebugInfoEventData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.DebugInfoEventData.html",
+          "hash": "NLGQANS1UAObW2GnHiDRXQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.DisconnectionEventData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.DisconnectionEventData.html",
+          "hash": "N8WmnTDWwD6SkadGlvve7Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.GPIEventData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.GPIEventData.html",
+          "hash": "VySesDgqRg8PX/UAaVNcEg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.HandheldTriggerEventData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.HandheldTriggerEventData.html",
+          "hash": "0EB65T6eDMCQcHPYXJXCQg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.InventoryStartEventData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.InventoryStartEventData.html",
+          "hash": "5eu9Ws8ZBNe/5uNAuXsj1w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.InventoryStopEventData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.InventoryStopEventData.html",
+          "hash": "TrgjHGUyQOlaH/n/C2u4BA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.NXPEASAlarmEventData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.NXPEASAlarmEventData.html",
+          "hash": "ffNPwFfxRPVtjfkfyTXE5A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.RFSurvayStartEventData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.RFSurvayStartEventData.html",
+          "hash": "PQQCFDax7mvj70sCw3FA9w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.RFSurveyEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.RFSurveyEventArgs.html",
+          "hash": "RdTVkodr+spSVe0DK+Twkg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.RFSurveyEventData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.RFSurveyEventData.html",
+          "hash": "+lTWStPqYBknTXLKwy9/Jw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.RFSurveyReadNotifyHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.RFSurveyReadNotifyHandler.html",
+          "hash": "4FrvIpDbU54GNsCRY13sbg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.RFSurveyStopEventData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.RFSurveyStopEventData.html",
+          "hash": "PxMykYU22Pb/Qc8ew8B9IA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.ReadEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.ReadEventArgs.html",
+          "hash": "asc5v98k5H6aA5Y3w67bbQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.ReadEventData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.ReadEventData.html",
+          "hash": "EE19akDC3E29Sx2BH6J46A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.ReadNotifyHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.ReadNotifyHandler.html",
+          "hash": "s0yq09GCQBqmLzEq+2ZPgw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.ReaderExceptionEventData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.ReaderExceptionEventData.html",
+          "hash": "oHLS02DyFHQpRi1jQv4qZA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.STATUS_EVENT_TYPE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.STATUS_EVENT_TYPE.html",
+          "hash": "5nrpaZgT72DsH+aYPpolwA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.StatusEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.StatusEventArgs.html",
+          "hash": "qEuqig46MyAFUw1EhaFQ2g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.StatusEventData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.StatusEventData.html",
+          "hash": "17v8clTZzJzzWzN/5w6OSw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.StatusNotifyHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.StatusNotifyHandler.html",
+          "hash": "yHCMoUrLkyoZqsEBq1G4/g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.TemperatureAlarmData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.TemperatureAlarmData.html",
+          "hash": "tPaS7ROUpnqAs0HF3tEuoQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Events.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Events.html",
+          "hash": "lmrQ6WuVYYQ+QkypDgvamQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.ExtraTriggerInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.ExtraTriggerInfo.html",
+          "hash": "H6RdFKmDQhZkIKGvkNM5ww=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.FILTER_ACTION.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.FILTER_ACTION.html",
+          "hash": "199UOliyDsZzRvjXhqHOYg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.FORWARD_LINK_MODULATION.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.FORWARD_LINK_MODULATION.html",
+          "hash": "k++2UEfTFCmKtey4bZtZ9A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.FrequencyHopInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.FrequencyHopInfo.html",
+          "hash": "WtYWVc5lQucN8AKYMAwhQQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.FrequencyHopTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.FrequencyHopTable.html",
+          "hash": "JXAVfs6HEQXnRMzS17sqaw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Fujitsu.AreaReadLockAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Fujitsu.AreaReadLockAccessParams.html",
+          "hash": "Teib6ZezXETuiKB9yLESFA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Fujitsu.AreaWriteLockAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Fujitsu.AreaWriteLockAccessParams.html",
+          "hash": "xSx5DIFVOy7I9S8Wc+FAWg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Fujitsu.AreaWriteLockWOPasswordAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Fujitsu.AreaWriteLockWOPasswordAccessParams.html",
+          "hash": "+QGTLHS8YdQ7sHxZUsKrcw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Fujitsu.BurstEraseAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Fujitsu.BurstEraseAccessParams.html",
+          "hash": "C1U3p8hCCm4taE8wgUn98Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Fujitsu.BurstWriteAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Fujitsu.BurstWriteAccessParams.html",
+          "hash": "67n56UP3/DQYzwVZO0sFoQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Fujitsu.ChangeBlockLockAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Fujitsu.ChangeBlockLockAccessParams.html",
+          "hash": "+SIQ7o4Ec+ps4N58arE9Pw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Fujitsu.ChangeBlockOrAreaGroupPasswordAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Fujitsu.ChangeBlockOrAreaGroupPasswordAccessParams.html",
+          "hash": "6TMxo6FEnGq0iLYIL47RCA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Fujitsu.ChangeWordLockAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Fujitsu.ChangeWordLockAccessParams.html",
+          "hash": "gYZELr+KkEjXpey0xll9Zg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Fujitsu.ReadBlockLockAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Fujitsu.ReadBlockLockAccessParams.html",
+          "hash": "QZ6QuFSUL5Jz85JQDFx9vw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Fujitsu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Fujitsu.html",
+          "hash": "JEPxVXWxD+Lxunf81z7r1g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.FujitsuBurstEraseResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.FujitsuBurstEraseResult.html",
+          "hash": "TUs8oncyyln52zjdCZHUbg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.FujitsuBurstWriteResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.FujitsuBurstWriteResult.html",
+          "hash": "QVSv3hxH3fOgB+NUFhyU1w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.FujitsuReadBlockLockResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.FujitsuReadBlockLockResult.html",
+          "hash": "AouSShxhPJu7I/HwD9OyEQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.FujitsuStats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.FujitsuStats.html",
+          "hash": "A12ZiatbJBD8Z0u4+JkanA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.GPITrigger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.GPITrigger.html",
+          "hash": "snVBjMBpe/LvSkzix19iiQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.GPI_PORT_STATE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.GPI_PORT_STATE.html",
+          "hash": "1gVFXhXWP4oG0PjvB/0m0g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.GPIs.GPI_PORT_STATE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.GPIs.GPI_PORT_STATE.html",
+          "hash": "/fJxnfEW7uzESkYmfVmCzA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.GPIs.Port.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.GPIs.Port.html",
+          "hash": "CgZ3h7vxi1TCWP8xo4nVTQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.GPIs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.GPIs.html",
+          "hash": "8Mu/b/N7YPGvcPOOvyQxKg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.GPOs.GPO_PORT_STATE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.GPOs.GPO_PORT_STATE.html",
+          "hash": "jt/clFfnJ64rd0+lI5UjMg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.GPOs.Port.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.GPOs.Port.html",
+          "hash": "17u813ZheyMqSmWJSixPAA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.GPOs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.GPOs.html",
+          "hash": "9CDDl95LOR7O+DR+EuxlBQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.GPSLocation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.GPSLocation.html",
+          "hash": "dSpiPFLOmzbNqE3tgmnkwQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.HANDHELD_TRIGGER_EVENT_TYPE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.HANDHELD_TRIGGER_EVENT_TYPE.html",
+          "hash": "CM/ZJHcnsrL8Eem0jYPvDw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.HEALTH_STATUS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.HEALTH_STATUS.html",
+          "hash": "llbr6l6sJFPXxiObbiKqWw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.HandheldTrigger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.HandheldTrigger.html",
+          "hash": "GTqD0j2TlTurBQS4tiVj+g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.INVENTORY_STATE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.INVENTORY_STATE.html",
+          "hash": "bQ6kdqP/O/jipf0AkO4t4Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Impinj.QTData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Impinj.QTData.html",
+          "hash": "R/l5Z8eXa12VQx0QMTGvgg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Impinj.QTReadAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Impinj.QTReadAccessParams.html",
+          "hash": "E21G+/9hXY/AkgVykQgywQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Impinj.QTWriteAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Impinj.QTWriteAccessParams.html",
+          "hash": "0B1aDyqmRKkqGuJwZxWDWw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Impinj.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Impinj.html",
+          "hash": "ThbAoD0AIT5wVYcka9ssfw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.ImpinjStats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.ImpinjStats.html",
+          "hash": "sqbQ5vjE4+K7qKbdqYosjA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.InvalidUsageException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.InvalidUsageException.html",
+          "hash": "izp9jAOoq3Hs0eVrHnDLNw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Inventory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Inventory.html",
+          "hash": "KN644jgxP3oqLDCjwhFsDQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.LED_COLOR.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.LED_COLOR.html",
+          "hash": "gcc36LIJCvAtIdqkH4snqg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.LLRPConnection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.LLRPConnection.html",
+          "hash": "eAWyODch2AVVkTh0Esue8g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.LLRPConnectionConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.LLRPConnectionConfig.html",
+          "hash": "X9qBuJrTV3P7A2rLwox6WQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.LOCK_DATA_FIELD.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.LOCK_DATA_FIELD.html",
+          "hash": "3wzUcScHA4aaf7KiSDiRzw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.LOCK_PRIVILEGE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.LOCK_PRIVILEGE.html",
+          "hash": "NPNMILy/eExL7J0wKEVEwg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.LedInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.LedInfo.html",
+          "hash": "SSdyGe2fBv8+WIl9gOM4MQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.LicenseInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.LicenseInfo.html",
+          "hash": "sM/yWwKeOcQzwabxPyH/rA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Licensing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Licensing.html",
+          "hash": "dqNfUKakECUuvdOm+ab63g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.LocationInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.LocationInfo.html",
+          "hash": "8JSjuzBf5VdeS0Zjw0wCqg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.LoginInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.LoginInfo.html",
+          "hash": "jH/0B9S4j6jDqVTq/gTvjA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.MATCH_PATTERN.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.MATCH_PATTERN.html",
+          "hash": "W7+twF6LHOer2BmhoLsbWg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.MATCH_RANGE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.MATCH_RANGE.html",
+          "hash": "ikt7puUAASePEAsWSLpx+A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.MEMORY_BANK.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.MEMORY_BANK.html",
+          "hash": "HZrGuIK6ScW86lPAMPHiew=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.MLTAlgorithmParameters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.MLTAlgorithmParameters.html",
+          "hash": "8Hk0TWaYsiiVyEW7Eo59lg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.MLTAlgorithmReport.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.MLTAlgorithmReport.html",
+          "hash": "xY69mwpKeOGRd0n5Dthlcg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.MLTAntennaMapTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.MLTAntennaMapTable.html",
+          "hash": "uQU42brib/IrNdImUBouiQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.MLTLocationReport.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.MLTLocationReport.html",
+          "hash": "XUPWgGM+fv77K9RmiGgjVA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.MLTReaderParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.MLTReaderParams.html",
+          "hash": "K4L39IbbKUs7NUbkotcJ/Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.MLTTagReadReport.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.MLTTagReadReport.html",
+          "hash": "x7gwWtd2+v8umrF67qoNTw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.MLTTimeLimitParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.MLTTimeLimitParams.html",
+          "hash": "8RYyvk0arTMlvgAPBaDkww=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.MLTTimeWindowSizeParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.MLTTimeWindowSizeParams.html",
+          "hash": "IrmRqXY961SwBQiKRyJDNQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.MLTTransistionReport.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.MLTTransistionReport.html",
+          "hash": "TNfwp7Yar6VC7TZSqvzQww=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.MLTTransistionSlopeTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.MLTTransistionSlopeTable.html",
+          "hash": "lWsuTSxwLrCjqA8HLRDNow=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.MLT_READER_TYPE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.MLT_READER_TYPE.html",
+          "hash": "UADANvL5fRt/SQ/1phfjKw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.MLT_TAG_STATE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.MLT_TAG_STATE.html",
+          "hash": "SmCyfKCrgNCRWFU1vQ0gnw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.MODULATION.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.MODULATION.html",
+          "hash": "37pbQ8j2jwlUtb7j0ISHXg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.NXP.ChangeConfigParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.NXP.ChangeConfigParams.html",
+          "hash": "FplAtf6l8S+VABWXGJWd0g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.NXP.ChangeConfigResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.NXP.ChangeConfigResult.html",
+          "hash": "iWyHrNhlQ1t/b4otuqmF+A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.NXP.ReadProtectParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.NXP.ReadProtectParams.html",
+          "hash": "+pAwzsp1upPtjbMDlFtF3w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.NXP.ResetReadProtectParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.NXP.ResetReadProtectParams.html",
+          "hash": "pVS2JUufOXurmmgkhD7PdQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.NXP.SetEASParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.NXP.SetEASParams.html",
+          "hash": "WtZeCKZseiw2hJkdUzKRCA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.NXP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.NXP.html",
+          "hash": "boKb3kIELHpnFnLHSUh3Lw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.NXPStats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.NXPStats.html",
+          "hash": "fLfUZqrMH1YyakCRrlyQWw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.OPERATION_QUALIFER.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.OPERATION_QUALIFER.html",
+          "hash": "9DzhOcYNU7/3t1/4SP/oFw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.OperationFailureException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.OperationFailureException.html",
+          "hash": "jvNdNM+AHmwGfgLQI148Qw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.PARAM_TYPE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.PARAM_TYPE.html",
+          "hash": "xD53yRqzyvwUCsnVXXubvw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.POWER_NEGOTIATION_STATUS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.POWER_NEGOTIATION_STATUS.html",
+          "hash": "ArxSpHJNT8VYfFQ57HDoVw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.POWER_SOURCE_TYPE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.POWER_SOURCE_TYPE.html",
+          "hash": "wmRejOpXwO8Fo0G5PzFWlQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.PerAntennaReceiveSensitivityRange.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.PerAntennaReceiveSensitivityRange.html",
+          "hash": "KWXvp8QQlqZtosXZKMp31Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.PeriodicTrigger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.PeriodicTrigger.html",
+          "hash": "ySlP2mEECdV0dTOtUBfKGw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.PostFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.PostFilter.html",
+          "hash": "6yCTzkU1+VyAv5Z+UwH/PQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.PreFilters.PreFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.PreFilters.PreFilter.html",
+          "hash": "Nlkd7B5Xyh5p6f0YosWwIA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.PreFilters.StateAwareActionParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.PreFilters.StateAwareActionParams.html",
+          "hash": "KiTFquc1gjtwThlIRHrbwg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.PreFilters.StateUnawareAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.PreFilters.StateUnawareAction.html",
+          "hash": "4QXN//uGZt/jzGvfVfqrXg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.PreFilters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.PreFilters.html",
+          "hash": "RHLnFwUCXv2xqsqIw/opvA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Profile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Profile.html",
+          "hash": "UUx9L4f5YLrnjHJEv/WYDA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.RADIO_POWER_STATE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.RADIO_POWER_STATE.html",
+          "hash": "XGke+8bMcabHehjUwQ4fSA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.READER_EXCEPTION_EVENT_TYPE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.READER_EXCEPTION_EVENT_TYPE.html",
+          "hash": "1ZBS5XD2iCLsbSyKiRrEag=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.READER_ID_TYPE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.READER_ID_TYPE.html",
+          "hash": "AQUlZ34SnzbuwHyrKgYYxA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.READER_TYPE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.READER_TYPE.html",
+          "hash": "gDb67GMch+o7ycY9lqE42w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.READPOINT_STATUS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.READPOINT_STATUS.html",
+          "hash": "L9+KRpRw4weVkwip3I56PQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.RECOMMISSION_OPERATION_CODE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.RECOMMISSION_OPERATION_CODE.html",
+          "hash": "mbwxG01u5tn2Q6RRyJ36fA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.RFIDReader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.RFIDReader.html",
+          "hash": "8XAFU5KftSirivcHUKtlZQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.RFIDResults.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.RFIDResults.html",
+          "hash": "2MonALVycZLTJp0dynWXZQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.RFID_EVENT_TYPE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.RFID_EVENT_TYPE.html",
+          "hash": "s++7eU904l7Qs62c3AEqEg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.RFModeTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.RFModeTable.html",
+          "hash": "SKdAXtoqbt8JvVrUnlnglQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.RFModeTableEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.RFModeTableEntry.html",
+          "hash": "P1KUQSeIEbEDJsE3G5m25Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.RFModes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.RFModes.html",
+          "hash": "9xji09+04DT7pFu05aAcSw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.RFSURVEY_EVENT_REPORT_TRIGGER.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.RFSURVEY_EVENT_REPORT_TRIGGER.html",
+          "hash": "Twjp1ORQ6HSrA4Dz4jtHUA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.RFSurvey.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.RFSurvey.html",
+          "hash": "V4iprRBMSbaG5+iuqi04KA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.RFSurveyData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.RFSurveyData.html",
+          "hash": "/u269AOks/cqFgcUK1MUrg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.RFSurveyEventReportInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.RFSurveyEventReportInfo.html",
+          "hash": "VJj5s62+s/oedMTh7C+hBg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.RadioConfigUpdate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.RadioConfigUpdate.html",
+          "hash": "bIww3vd01ck2ReiPFtNCXA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.RadioFirmwareUpdate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.RadioFirmwareUpdate.html",
+          "hash": "epoeidoFn3SVGqjI3w2quw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.ReadPoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.ReadPoint.html",
+          "hash": "+jgymBuDTNg2F0t7saKDYQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.ReaderCapabilities.ReaderIdentification.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.ReaderCapabilities.ReaderIdentification.html",
+          "hash": "1cBdPYKTcFubSGLsGa3dKA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.ReaderCapabilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.ReaderCapabilities.html",
+          "hash": "JQ96ifkgLp1nV0FkLGJbQw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.ReaderInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.ReaderInfo.html",
+          "hash": "EXvetaSn4LcOQnppWnx7PQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.ReaderManagement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.ReaderManagement.html",
+          "hash": "osNQAPkj3OmNyj61czKpEw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.ReaderModuleVersion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.ReaderModuleVersion.html",
+          "hash": "/2g0WmTG15fRWVzPh74P0w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.ReaderRegion.ActiveRegionInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.ReaderRegion.ActiveRegionInfo.html",
+          "hash": "aGEtMRQ+kaThSprmSDGkFw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.ReaderRegion.CommunicationStandardInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.ReaderRegion.CommunicationStandardInfo.html",
+          "hash": "pt6zRcmpMc0rpcBciOM0HA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.ReaderRegion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.ReaderRegion.html",
+          "hash": "7jzGd4V9frrdx5M5w7BbZw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.ReaderStatistics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.ReaderStatistics.html",
+          "hash": "3XJuO2OdWw+DqsFVDQhDkg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.ReportTriggers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.ReportTriggers.html",
+          "hash": "hpJinJPnAWkylqkIm1FPhQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.RssiRangeFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.RssiRangeFilter.html",
+          "hash": "JtH0ohgPL+nATPB5IeLslQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.SECURE_MODE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.SECURE_MODE.html",
+          "hash": "K3slVBKpiXUl3rNHE9lBMg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.SERVICE_ID.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.SERVICE_ID.html",
+          "hash": "UfbLTCyQ1cZclEWyrsLR/w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.SESSION.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.SESSION.html",
+          "hash": "ReaSj88Vj0ahzpJey9NsIA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.SL_FLAG.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.SL_FLAG.html",
+          "hash": "ly7/DAdzYPXArr7GM+mXaQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.SMART_ALGORITHM_SELECTOR.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.SMART_ALGORITHM_SELECTOR.html",
+          "hash": "UXR66ZhPTiugsLW6fKiIGw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.SPECTRAL_MASK_INDICATOR.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.SPECTRAL_MASK_INDICATOR.html",
+          "hash": "XZiktIO3KIEEs0VhS1LK5g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.START_TRIGGER_TYPE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.START_TRIGGER_TYPE.html",
+          "hash": "HFCDnKZ6CYoJeWpMkBEtwg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.STATE_AWARE_ACTION.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.STATE_AWARE_ACTION.html",
+          "hash": "ZG7T+FKUpOiGzvF3mIcDFA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.STATE_UNAWARE_ACTION.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.STATE_UNAWARE_ACTION.html",
+          "hash": "+aw+6s2VurUI0CxJgti81g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.STOP_TRIGGER_TYPE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.STOP_TRIGGER_TYPE.html",
+          "hash": "t87sfDJPmNXt9n1mvTnh/A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.SecureConnectionInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.SecureConnectionInfo.html",
+          "hash": "ciJ73U+++7oi/Jn93TVsdA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.SecureModeConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.SecureModeConfig.html",
+          "hash": "3K+YYMyxGA1DKSLZEpmMcg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.SeenTime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.SeenTime.html",
+          "hash": "5mf6IYNEK06i+w12GE0TjA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.SmartAlgorithmsParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.SmartAlgorithmsParams.html",
+          "hash": "DCs3Yu1Wv13G/e9VXTRj+g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.SoftwareUpdate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.SoftwareUpdate.html",
+          "hash": "gGzS1RIihAGX0M6Dj5QPRw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.SoftwareUpdateInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.SoftwareUpdateInfo.html",
+          "hash": "IIrUIOLJcxRa5SX1oo94DQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.StartTrigger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.StartTrigger.html",
+          "hash": "Q0NEar3LySDqTnkTlJpT3g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.StopTrigger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.StopTrigger.html",
+          "hash": "GVME36svLTZ4xAE9FCVU/g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.SystemInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.SystemInfo.html",
+          "hash": "S6ORaUoJJsgpW4jS9gIvRg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TAG_EVENT.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TAG_EVENT.html",
+          "hash": "J40VR7HUqheeqECajAmATQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TAG_EVENT_REPORT_TRIGGER.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TAG_EVENT_REPORT_TRIGGER.html",
+          "hash": "Tzi+CL9Is25NVCDzI0qQbg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TAG_FIELD.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TAG_FIELD.html",
+          "hash": "3NK6SQUmX9yGHgjvgAdFHQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TAG_MOVING_EVENT_REPORT.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TAG_MOVING_EVENT_REPORT.html",
+          "hash": "jDxvRA+EmkEcEO+jimiXTw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TAG_OPERATING_RANGE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TAG_OPERATING_RANGE.html",
+          "hash": "I0H8XL8pLXh10+nFPVC4+Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TARGET.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TARGET.html",
+          "hash": "pQBmNHofyz2wx6UINmxnBQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TEMPERATURE_SOURCE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TEMPERATURE_SOURCE.html",
+          "hash": "HLGxEQzi9fTbCdWqGkN1nw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TID_HIDE_STATE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TID_HIDE_STATE.html",
+          "hash": "mkIQJ4oxrm6h+9rgTFpqBQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TRACE_LEVEL.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TRACE_LEVEL.html",
+          "hash": "iXF9fLKPzUXVFSoIufAGBw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TRUNCATE_ACTION.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TRUNCATE_ACTION.html",
+          "hash": "aLdZtM1d+np1OtV+XN+MOA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TagAccess.AuthenticateAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TagAccess.AuthenticateAccessParams.html",
+          "hash": "MzeLnHMLMnQttZufwCUVRA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TagAccess.BlockEraseAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TagAccess.BlockEraseAccessParams.html",
+          "hash": "fvddRNBNqUWDj4ZUfiDO6w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TagAccess.BlockPermalockAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TagAccess.BlockPermalockAccessParams.html",
+          "hash": "QAowzsee9Oes/NEaW4kJIA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TagAccess.CryptoAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TagAccess.CryptoAccessParams.html",
+          "hash": "l0+RRiwBKe1Lfhv/X7rN3Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TagAccess.KillAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TagAccess.KillAccessParams.html",
+          "hash": "IqRonicDeo0jL8MbXC2FNw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TagAccess.LockAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TagAccess.LockAccessParams.html",
+          "hash": "yYp+Dvjw88t8uSSWKzpung=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TagAccess.ReadAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TagAccess.ReadAccessParams.html",
+          "hash": "KzMA8sKwANpJPmRBep8ikA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TagAccess.ReadBufferAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TagAccess.ReadBufferAccessParams.html",
+          "hash": "t2Ke+SrJcn88tVXORj7CDA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TagAccess.RecommisionAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TagAccess.RecommisionAccessParams.html",
+          "hash": "tyvjyw7viw5Hmp3FQOxnFw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TagAccess.Sequence.Operation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TagAccess.Sequence.Operation.html",
+          "hash": "nx64ByBLodn79j2ZIlrDTQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TagAccess.Sequence.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TagAccess.Sequence.html",
+          "hash": "t3ikv2PkqA9zewCdMvY40g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TagAccess.UntraceableAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TagAccess.UntraceableAccessParams.html",
+          "hash": "2Y1AjqeJ2OyhIYwS+7q9Zg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TagAccess.WriteAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TagAccess.WriteAccessParams.html",
+          "hash": "S16PUO0mQJ0qA5C6PyxVqg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TagAccess.WriteSpecificFieldAccessParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TagAccess.WriteSpecificFieldAccessParams.html",
+          "hash": "kvcqECV0Z9ZXsGBo5/rtrg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TagAccess.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TagAccess.html",
+          "hash": "cSPpALFkXZVN5kCtjypTLw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TagData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TagData.html",
+          "hash": "nJjEPBidlPGS4f5Xv0rZKQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TagEventReportInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TagEventReportInfo.html",
+          "hash": "fJOXmakNfidhyzTeshQ1EQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TagLocationing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TagLocationing.html",
+          "hash": "Ge5QjVk+tlKbCtNX5VSapQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TagPatternBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TagPatternBase.html",
+          "hash": "rQrgrvWMGHuMCcN3KHFvmA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TagStorageSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TagStorageSettings.html",
+          "hash": "iaLRKneUQbokNdTKKim7Lg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TagZoneInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TagZoneInfo.html",
+          "hash": "0PvqG6ug9JEHPtdVq8IoiA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TemperatureStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TemperatureStatus.html",
+          "hash": "O1Iso/dqLvkx6TcE8BEu0w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TimeLapseStartTrigger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TimeLapseStartTrigger.html",
+          "hash": "IYxNpRcg5R866Vv1uYZ5KQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TimeLapseStopTrigger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TimeLapseStopTrigger.html",
+          "hash": "Jjy7z6aOab7q4fnKGuVUHg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TimeZone.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TimeZone.html",
+          "hash": "HXe576mSDYFl25dTAjWH2g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TriggerInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TriggerInfo.html",
+          "hash": "CMazw9BRT/mGqb3i1o1zkw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.TriggerWithTimeout.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.TriggerWithTimeout.html",
+          "hash": "DvTOm4Z3vIh02fwaAeKrMw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.USBOperationMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.USBOperationMode.html",
+          "hash": "Slork1ZtgNT4hhCbnSgvqg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.USB_OPERATION_MODE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.USB_OPERATION_MODE.html",
+          "hash": "Yd9+oFVizqBLXMBIBYjKPg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.UTCTime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.UTCTime.html",
+          "hash": "YUIVVhGa0RF68408lfiXww=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.UpTime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.UpTime.html",
+          "hash": "oTpVgKxSD01ZgYot5xjVcg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.UpdateStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.UpdateStatus.html",
+          "hash": "TxIOtOdBUxRneGZzauMHdQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.UserApp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.UserApp.html",
+          "hash": "EnAAjfccF5LDdNPkvZ2JJQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.UserAppInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.UserAppInfo.html",
+          "hash": "+V+q1wBTii6VRTLiKrZFBQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.UserInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.UserInfo.html",
+          "hash": "nQhRYp9lVlWsMRfY3aEZxQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.VersionInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.VersionInfo.html",
+          "hash": "I9+/R5OOHN+TjkxwAf7lEg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.WRITE_FIELD_CODE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.WRITE_FIELD_CODE.html",
+          "hash": "nqqFS/pFGmwrVM3MTTAABA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.ZoneSequence.ZoneInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.ZoneSequence.ZoneInfo.html",
+          "hash": "pI5w/oUDbVR2WTD3jksGmw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.ZoneSequence.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.ZoneSequence.html",
+          "hash": "RKjRd+H+g+sPNiiObFCP2A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Zones.ZoneConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Zones.ZoneConfig.html",
+          "hash": "s6i6fREQJGtVGsDmCdQNHA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.Zones.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.Zones.html",
+          "hash": "9hHHOD2w7zdiZEUDpvcC5w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Symbol.RFID3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Symbol.RFID3.html",
+          "hash": "1Vpng7vBlW8vrmWEXdAaaw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 38,
+          "skipped_file_count": 37
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 243,
+          "skipped_file_count": 243
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

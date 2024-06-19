@@ -1,0 +1,10 @@
+{
+  "DBname": "Fase2BD",
+  "dataSource": "localhost",
+  "userID": "sa",
+  "password": "sa",
+  "tableNames": {
+    "table1": "dbo.Producao",
+    "table2": "dbo.LeituraTag"
+  }
+}

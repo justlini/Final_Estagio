@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2024-05-23T08:41:16.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="HxkC70wB2W_epC5zB1gD" version="24.4.6" type="device">
+  <diagram name="Página-1" id="_AQEkzrOmiAzcXc922UQ">
+    <mxGraphModel dx="1235" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ciw-9UTep7fG6nDzwauM-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;All DataBase Acess&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" width="236" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ciw-9UTep7fG6nDzwauM-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ciw-9UTep7fG6nDzwauM-12" target="Ciw-9UTep7fG6nDzwauM-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ciw-9UTep7fG6nDzwauM-12" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#B20000;fillColor=#e51400;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="464" y="50" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ciw-9UTep7fG6nDzwauM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ciw-9UTep7fG6nDzwauM-57" target="Ciw-9UTep7fG6nDzwauM-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ciw-9UTep7fG6nDzwauM-57" value="Combobox para selecionar tabela" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="454" y="163.5" width="140" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="Ciw-9UTep7fG6nDzwauM-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ciw-9UTep7fG6nDzwauM-58" target="Ciw-9UTep7fG6nDzwauM-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ciw-9UTep7fG6nDzwauM-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ciw-9UTep7fG6nDzwauM-58" target="Ciw-9UTep7fG6nDzwauM-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ciw-9UTep7fG6nDzwauM-58" value="Mostrar dados da tabela selecionada" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="464" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ciw-9UTep7fG6nDzwauM-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ciw-9UTep7fG6nDzwauM-59" target="Ciw-9UTep7fG6nDzwauM-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ciw-9UTep7fG6nDzwauM-59" value="Botão &quot;procurar&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="454" y="410" width="140" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="Ciw-9UTep7fG6nDzwauM-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ciw-9UTep7fG6nDzwauM-60" target="Ciw-9UTep7fG6nDzwauM-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ciw-9UTep7fG6nDzwauM-60" value="Verificar quais labels estão preenchidas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="464" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ciw-9UTep7fG6nDzwauM-61" value="Mostrar os resultados de acordo com os valores das labels" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="464" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ciw-9UTep7fG6nDzwauM-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ciw-9UTep7fG6nDzwauM-63" target="Ciw-9UTep7fG6nDzwauM-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ciw-9UTep7fG6nDzwauM-63" value="Botão &quot;Mostrar&lt;div&gt;&amp;nbsp;todas as tags&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="260" y="410" width="140" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="Ciw-9UTep7fG6nDzwauM-64" value="Atualizar dados mostrados" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="270" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

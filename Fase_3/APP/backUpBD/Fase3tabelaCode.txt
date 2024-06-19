@@ -1,0 +1,23 @@
+USE [Fase3BD]
+GO
+
+/****** Object:  Table [dbo].[LeituraTag_FX96000Teste]    Script Date: 29/05/2024 18:01:39 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[LeituraTag_FX96000Teste](
+	[EPC_Id] [varchar](50) NOT NULL,
+	[Atenna_ID] [int] NULL,
+	[T_ID] [varchar](50) NULL,
+	[RSSI] [int] NULL,
+	[Data_Leitura] [date] NULL,
+	[Hora_Leitura] [time](7) NULL,
+ CONSTRAINT [PK__LeituraT__9EC2A482C2EABB92] PRIMARY KEY CLUSTERED 
+(
+	[EPC_Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO

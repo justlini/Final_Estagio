@@ -1,0 +1,9 @@
+{
+  "DBname": "Fase3BD",
+  "dataSource": "localhost",
+  "userID": "sa",
+  "password": "sa",
+  "tableNames": {
+    "table1": "dbo.LeituraTag_FX96000Teste"
+  }
+}

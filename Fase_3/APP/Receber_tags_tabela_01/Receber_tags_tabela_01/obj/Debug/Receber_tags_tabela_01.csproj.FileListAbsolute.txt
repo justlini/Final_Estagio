@@ -1,0 +1,9 @@
+C:\Users\alexandre.brito\Desktop\trabalhos\Receber_tags_tabela_01\Receber_tags_tabela_01\bin\Debug\Receber_tags_tabela_01.exe.config
+C:\Users\alexandre.brito\Desktop\trabalhos\Receber_tags_tabela_01\Receber_tags_tabela_01\bin\Debug\Receber_tags_tabela_01.exe
+C:\Users\alexandre.brito\Desktop\trabalhos\Receber_tags_tabela_01\Receber_tags_tabela_01\bin\Debug\Receber_tags_tabela_01.pdb
+C:\Users\alexandre.brito\Desktop\trabalhos\Receber_tags_tabela_01\Receber_tags_tabela_01\obj\Debug\Receber_tags_tabela_01.csproj.AssemblyReference.cache
+C:\Users\alexandre.brito\Desktop\trabalhos\Receber_tags_tabela_01\Receber_tags_tabela_01\obj\Debug\Receber_tags_tabela_01.Properties.Resources.resources
+C:\Users\alexandre.brito\Desktop\trabalhos\Receber_tags_tabela_01\Receber_tags_tabela_01\obj\Debug\Receber_tags_tabela_01.csproj.GenerateResource.cache
+C:\Users\alexandre.brito\Desktop\trabalhos\Receber_tags_tabela_01\Receber_tags_tabela_01\obj\Debug\Receber_tags_tabela_01.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.brito\Desktop\trabalhos\Receber_tags_tabela_01\Receber_tags_tabela_01\obj\Debug\Receber_tags_tabela_01.exe
+C:\Users\alexandre.brito\Desktop\trabalhos\Receber_tags_tabela_01\Receber_tags_tabela_01\obj\Debug\Receber_tags_tabela_01.pdb

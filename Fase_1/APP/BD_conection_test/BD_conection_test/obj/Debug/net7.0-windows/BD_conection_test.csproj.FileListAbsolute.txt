@@ -1,0 +1,75 @@
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\BD_conection_test.exe
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\BD_conection_test.deps.json
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\BD_conection_test.runtimeconfig.json
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\BD_conection_test.dll
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\BD_conection_test.pdb
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.csproj.AssemblyReference.cache
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.Form1.resources
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.csproj.GenerateResource.cache
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.AssemblyInfoInputs.cache
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.AssemblyInfo.cs
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conec.66DF7AC9.Up2Date
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.dll
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\refint\BD_conection_test.dll
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.pdb
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.genruntimeconfig.cache
+C:\Users\alexandre.brito\Desktop\trabalhos\testes\.vs\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\ref\BD_conection_test.dll
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\BD_conection_test.exe
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\BD_conection_test.deps.json
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\BD_conection_test.runtimeconfig.json
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\BD_conection_test.dll
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\BD_conection_test.pdb
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.csproj.AssemblyReference.cache
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.Form1.resources
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.csproj.GenerateResource.cache
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.AssemblyInfoInputs.cache
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.AssemblyInfo.cs
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conec.66DF7AC9.Up2Date
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.dll
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\refint\BD_conection_test.dll
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.pdb
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.genruntimeconfig.cache
+C:\Users\alexandre.brito\Desktop\projetos enviados para avaliação\Fase_1\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\ref\BD_conection_test.dll
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\BD_conection_test.exe
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\BD_conection_test.deps.json
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\BD_conection_test.runtimeconfig.json
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\BD_conection_test.dll
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\BD_conection_test.pdb
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.csproj.AssemblyReference.cache
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.Form1.resources
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.csproj.GenerateResource.cache
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.AssemblyInfoInputs.cache
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.AssemblyInfo.cs
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conec.66DF7AC9.Up2Date
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.dll
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\refint\BD_conection_test.dll
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.pdb
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\BD_conection_test.genruntimeconfig.cache
+C:\Users\alexandre.brito\Desktop\EstagioPastaFinal\Fase_1\APP\BD_conection_test\BD_conection_test\obj\Debug\net7.0-windows\ref\BD_conection_test.dll
